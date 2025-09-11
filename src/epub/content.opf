@@ -61,17 +61,20 @@
 		<meta property="alternate-script" refines="#author">Фёдор Михайлович Достоевский</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Fyodor_Dostoevsky</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79029930</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Constance Garnett</dc:contributor>
 		<meta property="file-as" refines="#translator">Garnett, Constance</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Constance Clara Garnett</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Constance_Garnett</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50015174</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Nikolai Yaroshenko</dc:contributor>
 		<meta property="file-as" refines="#artist">Yaroshenko, Nikolai</meta>
+		<meta property="se:name.person.full-name" refines="#author">Nikolai Alexandrovich Yaroshenko</meta>
+		<meta property="alternate-script" refines="#author">Николай Александрович Ярошенко</meta>
+		<meta property="alternate-script" refines="#author">Микола Олександрович Ярошенко</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Nikolai_Yaroshenko</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82254652</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
